@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: crutchfield.35@osu.edu
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    street: 161 Townshend Hall 
+    city: Columbus
+    region: OH
     postcode: '94305'
     country: United States
     country_code: US
