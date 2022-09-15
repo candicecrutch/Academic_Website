@@ -14,7 +14,7 @@ organizations:
     url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include critical criminology, labor, and monetary sanctions.
+bio: My research interests include critical criminology, labor, punishment and monetary sanctions.
 
 # Interests to show in About widget
 interests:
