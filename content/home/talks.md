@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -39,4 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
- -->
+
+# Activate this widget? true/false
+active: false
