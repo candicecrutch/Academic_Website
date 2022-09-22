@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Candice Crutchfield is a second-year sociology PhD student at The Ohio State University. She holds a Master of Arts degree in Human Rights studies from Columbia University and dual Bachelor of Arts degrees in Criminology and Communication Arts and Sciences from Penn State University. Her current research interests include: critical criminology, incarceration, collective action, and monetary sanctions. At present, she is researching the impact of financial hardships on formerly incarcerated persons. 
+Candice Crutchfield is a second-year sociology PhD student at [The Ohio State University](https://sociology.osu.edu/people/crutchfield.35). She holds a Master of Arts degree in Human Rights Studies from Columbia University and dual Bachelor of Arts degrees in Criminology and Communication Arts and Sciences from Penn State University. Her current research interests include: critical criminology, incarceration, labor, collective action, and monetary sanctions. At present, she is conducting a qualitative research project about the impact of financial hardships on formerly incarcerated persons. 
 
 
 
