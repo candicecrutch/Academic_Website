@@ -6,6 +6,9 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+# Activate this widget? true/false
+active: false
+
 # Order that this section appears on the page.
 weight: 60
 
@@ -36,6 +39,3 @@ design:
   view: compact
   columns: '2'
 ---
-
-# Activate this widget? true/false
-active: false

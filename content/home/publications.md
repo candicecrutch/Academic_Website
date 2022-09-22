@@ -6,6 +6,9 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+# Activate this widget? true/false
+active: false
+
 # Order that this section appears on the page.
 weight: 90
 
@@ -40,5 +43,3 @@ design:
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-# Activate this widget? true/false
-active: false
