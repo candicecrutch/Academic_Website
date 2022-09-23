@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -28,7 +28,7 @@ experience:
   - title: Program Analyst, Jail Decarceration Team
     company: Vera Instittue of Justice
     company_url: 'https://www.vera.org/'
-    company_logo: org-v
+    company_logo: org-gc
     location: Brooklyn, NY
     date_start: '2019-09-01'
     date_end: '2021-12-12'
