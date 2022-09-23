@@ -28,7 +28,7 @@ content:
   email: crutchfield.35@osu.edu
   # phone: 888 888 88 88
   address:
-    street: 161 Townshend Hall 
+    street: 161 Townshend Hall, 1885 Neil Ave 
     city: Columbus
     region: OH
     postcode: '43210'
