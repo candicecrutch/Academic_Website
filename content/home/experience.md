@@ -28,7 +28,7 @@ experience:
   - title: Program Analyst, Jail Decarceration Team
     company: Vera Instittue of Justice
     company_url: 'https://www.vera.org/'
-    company_logo: org-gc
+    company_logo: org-v
     location: Brooklyn, NY
     date_start: '2019-09-01'
     date_end: '2021-12-12'
