@@ -6,7 +6,7 @@ title: Candice Crutchfield
 superuser: true
 
 # Role/position/tagline
-role: Sociology PhD Student
+role: Doctoral Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,5 +78,5 @@ Candice received dual Bachelor of Arts degrees in Criminology and Communication 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
 
