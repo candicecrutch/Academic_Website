@@ -74,7 +74,7 @@ Candice Crutchfield (she/her) is a graduate student in the Department of Sociolo
 
 At present, her primary research interests fall into two categories: the impact of financial precarity on formerly incarcerated persons as well as the experiences of incarcerated laborers in U.S. prisons. Her work is interdisciplinary in nature, drawing from in-depth interviews, archival data, field obersvations, and case study research. 
 
-In addition to academic research, Candice serves as the Vice President of Diversity and Inclusion for Ohio State's Sociology Graduate Student Association (SGSA). She is also an undergraduate mentor for liberal arts students at Penn State University. 
+In addition to academic research, Candice serves as the Vice President of Diversity and Inclusion for Ohio State's Sociology Graduate Student Association (SGSA). She is also mentor for undergraduate liberal arts students at Penn State University. 
 
 
 
