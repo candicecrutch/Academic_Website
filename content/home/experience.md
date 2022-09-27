@@ -37,7 +37,7 @@ experience:
   - title: Writing Tutor
     company: New York University Prison Education Program
     company_url: 'https://prisoneducation.nyu.edu/'
-    company_logo: my-logo
+    company_logo: org-x
     location: New York, NY
     date_start: '2010-01-01'
     date_end: '2020-06-30'
