@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -28,16 +28,11 @@ experience:
   - title: Program Analyst, Jail Decarceration Team
     company: Vera Instittue of Justice
     company_url: 'https://www.vera.org/'
-    company_logo: org-gc
+    company_logo: mylogoNYU.png
     location: Brooklyn, NY
     date_start: '2019-09-01'
     date_end: '2021-12-12'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Under the MacArthur Foundation's Safety and Justice Challenge, I provided technical assistance to Vera's partners in jurisdictions across the country on issues related to women's jail incarceration. I also provided guidance on national resesarch and program models, conducted data analysis and performed system mapping for research related to the Rural Jails Research and Policy Network in Washington and Georgia. 
 
   - title: Writing Tutor
     company: New York University Prison Education Program
@@ -46,10 +41,9 @@ experience:
     location: New York, NY
     date_start: '2010-01-01'
     date_end: '2020-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught creative writing and worked one-on-one with students at Wallkill Correctional Facility in Wallkill, NY. 
 
 design:
   columns: '2'
 ---
-# Activate this widget? true/false
-active: false
+
