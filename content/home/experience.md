@@ -41,7 +41,7 @@ experience:
     location: New York, NY
     date_start: '2010-01-01'
     date_end: '2020-06-30'
-    description: Taught creative writing and worked one-on-one with students at Wallkill Correctional Facility in Wallkill, NY. 
+    description: Working with NYU’s Prison Education Program (PEP) and community network, I served as a writing tutor, working directly with students to further develop writing skills, explore opportunities, and facilitate creative workshops at Wallkill Correctional Facility.  
 
 design:
   columns: '2'
